@@ -1,0 +1,6 @@
+{
+  "name": "Arjun AI — Executive Work & Project Command Hub",
+  "description": "End-to-end encrypted daily work workspace with AI meeting summaries, project scheduling, Google Calendar sync, Slack priority notifications, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
